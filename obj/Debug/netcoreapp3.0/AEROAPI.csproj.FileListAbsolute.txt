@@ -81,3 +81,6 @@ C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.
 C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\perei\Documents\Aero\AEROAPI\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
