@@ -104,7 +104,5 @@ namespace AEROAPI.Controllers
         {
             return _context.Locais.Any(e => e.Id == id);
         }
-    }
-        
-    }
+    }   
 }
